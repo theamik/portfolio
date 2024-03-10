@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="/logo.png"
+            src="https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/logo.png"
             alt="logo"
           />
         </Logo>

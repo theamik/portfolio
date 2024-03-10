@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/assets/ykte-feature-graphic.png",
+    img: "https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/ykte-feature-graphic.png",
     title: "E-Commerce Site",
     description:
       "A e-commerce website where customer show their products as well as generate sales.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://bashundhara.vercel.app/",
   },
   {
-    img: "/assets/renr-responsive.png",
+    img: "https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/renr-responsive.png",
     title: "Course Bundler App",
     description:
       "A learning application for the students where after subscribe get bundle of courses and lectures",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://coursebundler-two.vercel.app/",
   },
   {
-    img: "/assets/mymind-responsive.png",
+    img: "https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/mymind-responsive.png",
     title: "Retail Master",
     description:
       "An app where retailer can manage his shop maintain purchases,sales,accounts.",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://retail-master-virid.vercel.app/admin/login",
   },
   {
-    img: "/assets/pokedex-responsive.png",
+    img: "https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/pokedex-responsive.png",
     title: "Multi-Vendor Site",
     description:
       "A Multi-Vendor Mobile Responsive E-commerce site. Lots of sellers show their products and customers purchase from it and they can chat with each-others",
@@ -37,7 +37,7 @@ export const ProjectList = [
     demo_url: "https://laptopworkshop.vercel.app/",
   },
   {
-    img: "/assets/jobDetect.png",
+    img: "https://raw.githubusercontent.com/theamik/portfolio/main/src/assets/jobDetect.png",
     title: "Restaurant Management",
     description:
       "A mobile responsive app to manage restaurant orders, inventories, expenses and income , generate reports.",
